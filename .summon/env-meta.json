@@ -1,0 +1,10 @@
+{
+  "GOOGLE_CLIENT_ID": {
+    "label": "Google Client ID",
+    "secret": true
+  },
+  "GOOGLE_CLIENT_SECRET": {
+    "label": "Google Client Secret",
+    "secret": true
+  }
+}
